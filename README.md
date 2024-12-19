@@ -1,5 +1,5 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
-
+Date:25/10/2024
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
